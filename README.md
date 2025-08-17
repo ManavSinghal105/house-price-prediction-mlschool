@@ -1,4 +1,3 @@
-%%writefile README.md
 # 🏡 House Price Prediction - Supervised Learning (Amazon ML Summer School)
 
 This project is part of **Amazon ML Summer School 2025**, under the first topic: **Supervised Learning**.  
